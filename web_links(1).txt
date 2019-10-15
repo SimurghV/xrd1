@@ -1,0 +1,201 @@
+links:
+--------------------------------------------------
+COMSOL   完成
+
+Set Up the Model Environment in COMSOL Multiphysics (1/8)
+https://www.youtube.com/watch?v=82L4eBYYGkU&list=PLBk1I79rzfjlUrbINpMy-dBSb22l0jN5J
+Create Geometrical Objects in COMSOL Multiphysics (2/8)
+https://www.youtube.com/watch?v=qkeJkCsxdj0&list=PLBk1I79rzfjlUrbINpMy-dBSb22l0jN5J&index=2
+Specify Material Properties in COMSOL Multiphysics (3/8)
+https://www.youtube.com/watch?v=kNZXosTdYH4&list=PLBk1I79rzfjlUrbINpMy-dBSb22l0jN5J&index=3
+Defining Physics in COMSOL Multiphysics (4/8)
+https://www.youtube.com/watch?v=19ljZTwMpHU&list=PLBk1I79rzfjlUrbINpMy-dBSb22l0jN5J&index=4
+Meshing Basics in COMSOL Multiphysics (5/8)
+https://www.youtube.com/watch?v=7ItzpqCcYC0&list=PLBk1I79rzfjlUrbINpMy-dBSb22l0jN5J&index=5
+Running a Simulation in COMSOL Multiphysics (6/8)
+https://www.youtube.com/watch?v=C2IgBlyZRnw&list=PLBk1I79rzfjlUrbINpMy-dBSb22l0jN5J&index=6
+Postprocessing Results in COMSOL Multiphysics (7/8)
+https://www.youtube.com/watch?v=Y3EAIMbwa3I&list=PLBk1I79rzfjlUrbINpMy-dBSb22l0jN5J&index=7
+Adding Complexity to a COMSOL Multiphysics Model (8/8)
+https://www.youtube.com/watch?v=U6FO2A1tf2M&list=PLBk1I79rzfjlUrbINpMy-dBSb22l0jN5J&index=8
+
+
+
+Playlist:COMSOL-Conference  完成
+https://www.youtube.com/playlist?list=PLBk1I79rzfjlPUC8xn60JkXW8KMgQP-Yl
+
+Playlist: My COMSOL Tip Series 完成
+https://www.youtube.com/playlist?list=PLBk1I79rzfjkjCWWFhqnMg-wt6SWOc2ud
+
+Playlist: Creating Geometries in COMSOL Multiphysics: Tutorial Series  完成
+https://www.youtube.com/playlist?list=PLBk1I79rzfjnmQ8jzDYwdtMEgbDZI6vcj
+
+Playlist: 30-Second Physics Series
+https://www.youtube.com/playlist?list=PLBk1I79rzfjnsF2F10a5nWoZgYbVW9LFc
+
+Playlist: Using-Materials-in-COMSOL-Multiphysics-Tutorial-Series
+https://www.youtube.com/playlist?list=PLBk1I79rzfjmPA5IZGrwklBPgdldk565a
+
+Playlist: COMSOL-Selections-Series
+https://www.youtube.com/playlist?list=PLBk1I79rzfjlB085qJzsB89NneD6bq_g3
+
+Playlist: Postprocessing-Tutorial-Series
+https://www.youtube.com/playlist?list=PL22120E1636E51471
+
+Playlist: Core-Functionality-Tutorial-Series
+https://www.youtube.com/playlist?list=PLBk1I79rzfjmeA8leJk9c1km1o3ABqcWT
+
+Playlist: Parametric-Studies-Series
+https://www.youtube.com/playlist?list=PLBk1I79rzfjn4GhOkqP51KuWHhpbvthRa
+
+Playlist: Model-Demonstrations
+https://www.youtube.com/playlist?list=PLBk1I79rzfjkhNRIEMgTfixUEn4uJAsPt
+
+--------------------------------------------------
+
+
+
+
+DFT density functional theory
+	Basics of DFT in 10 minutes
+	https://www.youtube.com/watch?v=UEOrDnwtq6s
+	DFT Software For Windows. Density Functional theory, HF, Raman
+	https://www.youtube.com/watch?v=Ec3lSluOeZY
+	Introduction to DFT
+	https://www.youtube.com/watch?v=Whf6meIBIdg
+	Density-Functional Theory (DFT) : three non-technical explanations
+	https://www.youtube.com/watch?v=jZi2EOrCrpY
+	Introduction to density functional theory (DFT)
+	https://www.youtube.com/watch?v=1AH2pkijDPg
+	Basic Hamiltonian for interacting electrons and nuclei
+	https://www.youtube.com/watch?v=YHaNMdHQr44&list=PLIUQvmOa1ja1yJGo3l1PD2jPP-H70eXpF
+	CompChem.05.01 Density Functional Theory: Fundamentals
+	https://www.youtube.com/watch?v=ofyr1GyEZsU
+	Formulation of Density Functional Theory (DFT)
+	https://www.youtube.com/watch?v=R_64y3u80kk
+	[Sherrill Group] Summer Lecture Series in Theoretical Chemistry 2012: Density Functional Theory
+	https://www.youtube.com/watch?v=5orzn-XA29M
+	Creating and running a simple DFT calculation in GaussView / Gaussian
+	https://www.youtube.com/watch?v=nn_vBMh-R08
+	CompChem.05.01 Density Functional Theory: Fundamentals
+	https://www.youtube.com/watch?v=ofyr1GyEZsU&list=PL_R-QRdwLvbpl8lpkG2X2s-kDKeO4wwAG
+	DFT Simulations of Crystal Systems Database - Phys Whiz (BragitOff.com)
+	https://www.youtube.com/watch?v=r75xEP6G36E
+	DFT Simulations of Crystal Systems Database - Phys Whiz (BragitOff.com)
+	https://www.youtube.com/watch?v=r75xEP6G36E
+	L01, Matthias Scheffler, Materials discovery from electronic structure
+	https://www.youtube.com/watch?v=Zn-LYyTYv2s&list=PLbgFiRV2JFy-VQ3D6cJjn5jkXmAsjQPiT
+	Basics of DFT in 10 minutes
+	https://www.youtube.com/watch?v=UEOrDnwtq6s&list=PL5GZ4eyB0yogLpyOWNvakyK9g8dYGmw7T
+--------------------------------------------------
+VASP
+	--------------------------------------------------
+	Fundamentals and applications of density functional theory
+	https://www.youtube.com/watch?v=SXvhDLCycxc&t=895s
+	--------------------------------------------------
+	Intro to VASP
+	https://www.youtube.com/watch?v=wneTK1LenVM&t=6s
+	--------------------------------------------------
+	VASP Workshop at NERSC
+	VASP Workshop at NERSC: Basics: DFT, plane waves, PAW method, electronic minimization, Part 1
+	https://www.youtube.com/watch?v=vJkNv095Aj8
+	VASP Workshop at NERSC: Basics: DFT, plane waves, PAW method, electronic minimization, Part 2
+	https://www.youtube.com/watch?v=dVguc4W1hrQ
+	VASP Workshop at NERSC: Parallelization
+	https://www.youtube.com/watch?v=4i-mKC5wvWQ
+	VASP Workshop at NERSC: Beyond DFT (GW and ACFDT)
+	https://www.youtube.com/watch?v=7Vt3s8WWGCU
+	VASP Workshop at NERSC: Dielectric Response
+	https://www.youtube.com/watch?v=rnXnqDvaSNo
+	VASP Workshop at NERSC: Hybrid Functionals
+	https://www.youtube.com/watch?v=OQhRYzWAGfk
+	--------------------------------------------------
+1
+
+	VASP Input and output files (Dr. Anchalee and Dr. Pussana)
+	https://www.youtube.com/watch?v=qWp858UMJX8
+	Overview of molecular simulation & density functional theory (DFT) (Dr. Pussana)
+	https://www.youtube.com/watch?v=-7HbluWjZGM
+	Periodic system and plane-wave based DFT (Dr.Anchalee)
+	https://www.youtube.com/watch?v=emhPeLgfYAI
+	VASP and DFT practice 1-3 (Mr.Chirawat and Dr.Sarawoot)
+	https://www.youtube.com/watch?v=v4KWlTENt5M
+	Nudged elastic band method (NEB) and Frequency calculation & vibrational modes (Dr.Manaschai)
+	https://www.youtube.com/watch?v=2PotR4_sV_0
+
+
+	--------------------------------------------------
+	VASP教學課程
+	https://www.youtube.com/watch?v=529eCud071c
+	--------------------------------------------------
+	Molecular Dynamics of Water in VASP
+	https://www.youtube.com/watch?v=RDU5phW_rTs
+	--------------------------------------------------
+	lattice/phonon thermal conductivity calculated by Phono3py and VASP with an example of Si-fcc
+	https://www.youtube.com/watch?v=9Je6eP1Armc
+	--------------------------------------------------
+
+
+	By student
+
+	VASP DFPT calculation (with phonopy)
+	https://www.youtube.com/watch?v=bKwjCIrvfSk&list=PLe0ZcHao9WvykeDbowiRreYw8zA8yl4gf
+	cluster calculation, Part 1 (calculate energy of optimized structure)
+	https://www.youtube.com/watch?v=kJF2MtEtmLc
+	cluster calculation, Part 2 (VESTA, converting CONTCAR (VASP), xsf (PWscf) or cif to xyz)
+	https://www.youtube.com/watch?v=kVAB_PLPI0k
+	cluster calculation, Part 3 (displat, making f01)
+	https://www.youtube.com/watch?v=PCkpZyFoZNU
+	cluster calculation, Part 4 (DVXalpha calculation)
+	https://www.youtube.com/watch?v=NgdHdU7JwSQ
+	cluster calculation, Part 5 (Plot PDOS)
+	https://www.youtube.com/watch?v=8F9LpLvHGr8
+	cluster calculation, Part 6 (Plot Energy Level Diagram)
+	https://www.youtube.com/watch?v=PexWZxRJLEE
+	cluster calculation, f06zp setting by using of GB or FD (DVXalpha calculation)
+	https://www.youtube.com/watch?v=rDhDyGlYtz0
+	p4vasp, install
+	https://www.youtube.com/watch?v=7Yx8272vHxs
+
+
+
+2
+	vasp_phonopy_run
+	https://www.youtube.com/watch?v=uQ2OsXZbhMY
+	Si root(2)xroot(2)x1 super structrure
+	https://www.youtube.com/watch?v=SQ-j9Qb1KTg
+	vasp_autoset_run
+	https://www.youtube.com/watch?v=_qrev0IcL6c
+	aflow (automatically making kpoints for band dispersion)
+	https://www.youtube.com/watch?v=vJxpNof3MKg
+	vasp_phonopy_qha_run
+	https://www.youtube.com/watch?v=i3e-gGlv3sc
+	vasp_autoset_run_boltztrap_phonopy (results)
+	https://www.youtube.com/watch?v=mckjpG_lj9E
+	vasp_autoset_run_boltztrap_phonopy
+	https://www.youtube.com/watch?v=nLclQBZ-aBQ
+	wine install
+	https://www.youtube.com/watch?v=UO60gJLvz2A
+	vasp_phono3py_run (change parameter)
+	https://www.youtube.com/watch?v=2qXQNcNi6Ck
+	vasp_phonopy_run (thermal displacements)
+	https://www.youtube.com/watch?v=IT5KzcnD_eI
+	vasp_autoset_run_boltztrap
+	https://www.youtube.com/watch?v=hUjqeb8_f6I
+	vasp_boltztrap
+	https://www.youtube.com/watch?v=BEPQZHxCKKk
+	vasp_phonopy_qha_run ( use user setting kpoints)
+	https://www.youtube.com/watch?v=Tm-ki0Rybvs
+	VASP compilation (intel compiler and OpenMPI)
+	https://www.youtube.com/watch?v=zczPEKRHfwU
+	vasp_run (simple version)
+	https://www.youtube.com/watch?v=A4tvitLdKi8
+	vasp.5.4.1 (vasp.5.4.1.24Jun15.tar.gz, compile gfortran)
+	https://www.youtube.com/watch?v=zYVACNi5MXw
+	vasp_phono3py_run
+	https://www.youtube.com/watch?v=59zxKB6W6qM
+	making band.conf(phonopy) from xcrysden (WIEN2k)
+	https://www.youtube.com/watch?v=VvHgjCOoKhM
+	p4vasp, usage
+	https://www.youtube.com/watch?v=rlR8AN2YOaA
+--------------------------------------------------
